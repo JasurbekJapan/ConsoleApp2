@@ -16,5 +16,9 @@ namespace ConsoleApp2.git
         {
             Console.WriteLine("Hello, Git!");
         }
+        public static void Main3(string[] args)
+        {
+            Console.WriteLine("Hello, Git!");
+        }
     }
 }
